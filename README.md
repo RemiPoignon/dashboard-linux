@@ -2,6 +2,8 @@
 Tableau de bord de vérification des ressources utilisé par votre serveur linux en temps réel.
 Simple à installer, juste un copier coller du répertoire dans un virtual-host apache.
 
+![screenshot](https://raw2.github.com/RemiPoignon/dashboard-linux/master/screenshot.png)
+
 ## Fonctionnalité
 * Jauge CPU utilisé
 * Jauge RAM utile utilisé
