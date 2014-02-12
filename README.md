@@ -4,6 +4,8 @@ Simple à installer, juste un copier coller du répertoire dans un virtual-host 
 
 ![screenshot](https://raw2.github.com/RemiPoignon/dashboard-linux/master/screenshot.png)
 
+[Voir la documentation](http://remipoignon.github.io/dashboard-linux/)
+
 ## Fonctionnalité
 * Jauge CPU utilisé
 * Jauge RAM utile utilisé
@@ -13,19 +15,3 @@ Simple à installer, juste un copier coller du répertoire dans un virtual-host 
 * Information sur la RAM (quantité max, utilisé, en cache, libre + SWAP)
 * Information sur l'espace disque (max, utilisé, restant)
 * Liste des utilisateurs connecté en ssh (utilisateur, date de connexion, ip)
-
-## Installation
-1. Télécharger le package
-1. Créez un virtual-host Apache utilisant le dossier du package (ou copier le dans votre www).
-
-## Support
-* PHP 5 (commande shell_exec possible)
-* Apache 2
-
-## Test
-Testé avec Ubuntu Server 13.4
-
-## Todo
-* Ajout d'informations concernant le CPU et les disques
-* Voir l'heure actuelle sur le serveur
-* Système de gestion d'alerte avec configuration de seuils
