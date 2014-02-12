@@ -1,6 +1,6 @@
 # Dashboard-linux
-Tableau de bord de vérification des ressources utilisé par votre serveur linux en temps réel.
-Simple à installer, juste un copier coller du répertoire dans un virtual-host apache.
+Tableau de bord de vérification des ressources utilisées par votre serveur linux en temps réel.
+Très simple à installer, il est développé en php et bash, il vous suffit de copier le répertoire dans votre répertoire www d'apache (ou de lui créer un VHost dédié).
 
 ![screenshot](https://raw2.github.com/RemiPoignon/dashboard-linux/master/screenshot.png)
 
