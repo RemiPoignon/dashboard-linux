@@ -24,3 +24,8 @@ Simple à installer, juste un copier coller du répertoire dans un virtual-host 
 
 ## Test
 Testé avec Ubuntu Server 13.4
+
+## Todo
+* Ajout d'informations concernant le CPU et les disques
+* Voir l'heure actuelle sur le serveur
+* Système de gestion d'alerte avec configuration de seuils
